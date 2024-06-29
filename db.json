@@ -1,16 +1,21 @@
 {
-  "projects": [
+  "characters": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
+      "name": "Harry Potter",
+      "house": "Gryffindor",
       "userId": 1
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
+      "title": "Hermione Granger",
+      "description": "Gryffindor",
       "userId": 1
+    },
+    {
+      "name": "Syrius Black",
+      "house": "Gryffindor",
+      "id": 3
     }
   ],
   "tasks": [
